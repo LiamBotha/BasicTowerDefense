@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 898e9c2f333d01444bc667666be88a3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {instanceID: 0}
+  - selectedMaterial: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - hpCanvas: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  - meleeSound: {instanceID: 0}
+  - rangedSound: {fileID: 8300000, guid: 9a3916a0c59a74b41a40ee7c8101e588, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

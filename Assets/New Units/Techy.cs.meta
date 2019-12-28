@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a95b5956cdc6c744389a91cd41987e1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {instanceID: 0}
+  - selectedMaterial: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - hpCanvas: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - deathSound: {fileID: 8300000, guid: e151a56eea7f80440a147a7c1a176798, type: 3}
+  - meleeSound: {fileID: 8300000, guid: 9c4b42408c91f3844ab7d971fe5f8074, type: 3}
+  - rangedSound: {fileID: 8300000, guid: 9a3916a0c59a74b41a40ee7c8101e588, type: 3}
+  - walkSound: {fileID: 8300000, guid: 5fce845d8f0fe654d8bef4fc2f18a28a, type: 3}
+  - explosionParticle: {instanceID: 0}
+  - explosionSound: {fileID: 8300000, guid: 928ee8adf1f8eda44a80656fd59be1ac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
