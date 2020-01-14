@@ -6,4 +6,4 @@ This focus of this project was to use procedural generation to handle environmen
 
 ## Download
 
-https://www.dropbox.com/s/esaxthmjkxng8hr/TowerDefense%20Portfolio%20ver%20Build.rar?dl=0
+https://www.dropbox.com/s/esaxthmjkxng8hr/TowerDefense%20Portfolio%20ver%20Build.rar?dl=1
